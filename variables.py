@@ -26,12 +26,12 @@ print(balance)
 '''
 #################################################################
 '''
-devin = 350
-royce = 550
-bess = 650
+wesley = 350
+dontae = 550
+snipes = 650
 
-print(devin, royce, bess, sep=",/#* ")
+print(wesley, dontae, snipes, sep=",/#* ")
 
-TotalApples = int(devin + royce * bess)
+TotalApples = int(devin + dontae * snipes)
 
 print("The total number of apples is: ", TotalApples)
