@@ -1,7 +1,4 @@
 
-
----
-
 # Contributing to python_cafe
 
 We appreciate your interest in contributing to [Project Name](https://github.com/drbess/python_cafe)! This document provides guidelines for contributing. By participating in this project, you agree to abide by its terms.
@@ -48,11 +45,11 @@ Please adhere to the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding c
    git push origin YOUR_BRANCH_NAME
    ```
 
-3. **Open a Pull Request**: Go to the [original repository on GitHub](https://github.com/drbess/python_cafe) and click on 'New Pull Request'. Choose your branch from the dropdown and click 'Create Pull Request'.
+3. **Open a Pull Request**: Go to the [original sitory on GitHub](https://github.com/drbess/python_cafe) and click on 'New Pull Request'. Choose your branch from the dropdown and click 'Create Pull Request'.
 
-## Reporting Issues
+## rting Issues
 
-If you find any bugs or have suggestions, please open an issue in the repo. Make sure to check existing issues first to avoid duplicates.
+If you find any bugs or have suggestions, please open an issue in the repository. Make sure to check existing issues first to avoid duplicates.
 
 ## Running Tests
 
