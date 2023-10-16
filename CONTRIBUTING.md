@@ -1,7 +1,7 @@
 
 # Contributing to python_cafe
 
-We appreciate your interest in contributing to [Project Name](https://github.com/drbess/python_cafe)! This document provides guidelines for contributing. By participating in this project, you agree to abide by its terms.
+We appreciate your interest in contributing to [python_cafe](https://github.com/drbess/python_cafe)! This document provides guidelines for contributing. By participating in this project, you agree to abide by its terms.
 
 ## Setting Up Your Development Environment
 
@@ -47,13 +47,13 @@ Please adhere to the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding c
 
 3. **Open a Pull Request**: Go to the [original sitory on GitHub](https://github.com/drbess/python_cafe) and click on 'New Pull Request'. Choose your branch from the dropdown and click 'Create Pull Request'.
 
-## rting Issues
+## Reporting Issues
 
 If you find any bugs or have suggestions, please open an issue in the repository. Make sure to check existing issues first to avoid duplicates.
 
 ## Running Tests
 
-Before submitting your changes, make sure all tests pass. Here's a guide from [Real Python](https://realpython.com/pytest-python-testing/):
+Before submitting your changes, make sure all tests pass using "pytest". Here's a guide from [Real Python](https://realpython.com/pytest-python-testing/):
 
 ```bash
 pytest
