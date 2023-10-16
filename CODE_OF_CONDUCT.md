@@ -2,13 +2,13 @@
 
 ### 1. Purpose
 
-A primary goal of [python_cafe] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [python_cafe](https://github.com/drbess/python_cafe/tree/master) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 ### 2. Expected Behavior
 
-We invite all those who participate in [python_cafe] to help us create safe and positive experiences for everyone. Specifically:
+We invite all those who participate in [python_cafe](https://github.com/drbess/python_cafe/tree/master) to help us create safe and positive experiences for everyone. Specifically:
 
 - **Be welcoming** and inclusive.
 - **Be respectful**. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners.
