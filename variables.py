@@ -1,12 +1,13 @@
 """ My bank account example """
 
 '''
+# Store "1000" in a variable called "BALANCE"
 BALANCE = 1000
 
-
+""" We define a function "withdraw" that contains two parameters """
 def withdraw(current_balance, amount):
     current_balance -= amount
-    print('Withdrawing money.')
+    print('Withdrawing money ...')
     return current_balance
 
 
@@ -33,5 +34,14 @@ snipes = 650
 print(wesley, dontae, snipes, sep=",/#* ")
 
 TotalApples = int(devin + dontae * snipes)
+
+""" Here we define three variables """
+fname = 350
+mname = 550
+lname = 650
+
+print(fname, mname, lname, sep=",/#* ")
+
+TotalApples = int(fname + mname * lname)
 
 print("The total number of apples is: ", TotalApples)
