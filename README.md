@@ -5,3 +5,6 @@ New to Python? This repo starts with the basics from the "print" statement to th
 Practice writing these small programs to get better at writing larger ones.
 
 ## This Repo Will Be Renovated Soon
+
+New to Python? This repo starts with the basics from the "print" statement to the return function and beyond. 
+Practice writing these small programs to get better at writing larger ones
