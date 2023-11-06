@@ -10,3 +10,7 @@ elif plant == "Spathiphyllum":
     print("Yes - Spathiphyllum is the best plant ever!")
 else:
     print(" I don't do plants, dig me!!!")
+
+def flowers():
+    print("I love flowers!")
+    if plant
