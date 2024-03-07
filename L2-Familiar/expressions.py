@@ -1,8 +1,5 @@
-"""
-An expression is a combination of operators and operands that is interpreted to produce some other value
-
-Python doc - https://docs.python.org/3/reference/expressions.html
-"""
+# An expression is a combination of operators and operands that is interpreted to produce some other value
+# Python doc - https://docs.python.org/3/reference/expressions.html
 # TODO: Clean up and add more expression examples
 
 x = float(input("Enter value for x: "))
