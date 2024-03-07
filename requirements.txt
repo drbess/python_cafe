@@ -1,0 +1,5 @@
+setuptools~>=65.5.0
+feedparser~=6.0.10
+html2text~=2020.1.16
+typing~=3.7.4.3
+pydantic~=2.3.0
